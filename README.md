@@ -1,2 +1,2 @@
-# csgo-cases-uxui
-The UX/UI part of my case simulator app
+# CSGO case simulator UX/UI design
+🍩 The UX/UI part of my case simulator app
